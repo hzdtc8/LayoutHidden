@@ -37,7 +37,7 @@ public class MainActivity extends Activity {
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
 				TextView gTextView=new TextView(MainActivity.this);
-				gTextView.setText("Hello,Microsoft");
+				gTextView.setText("Hello,Lenovo");
 				mAinLayout.addView(gTextView);
 				
 			}
